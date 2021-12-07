@@ -1,0 +1,12 @@
+1. Install latest react native community cli
+2. Install typescript : npm install typescript --save-dev
+
+3. Create react native project : https://reactnative.dev/docs/typescript
+
+Link for doc: https://reactnative.dev/docs/typescript
+
+TypeScript Tutorial Doc : https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+React navigation Tutorial Doc: https://reactnavigation.org/docs/typescript/
+
+Setup React navigation tutorial Link : 1.https://benjaminwoojang.medium.com/react-navigation-with-typescript-270dfa8d5cad 2.https://blog.logrocket.com/using-typescript-with-react-native/ 3.https://medium.com/edonec/getting-started-with-react-navigation-in-react-native-typescript-f4343bc7e373
